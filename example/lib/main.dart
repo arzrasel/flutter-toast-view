@@ -1,8 +1,8 @@
-import 'dart:async';
+import "dart:async";
 
-import 'package:flutter/material.dart';
-import 'package:toast_view/toast_view.dart';
-import 'anim_run.dart';
+import "package:flutter/material.dart";
+import "package:toast_view/toast_view.dart";
+import "anim_run.dart";
 
 void main() => runApp(MyApp());
 
