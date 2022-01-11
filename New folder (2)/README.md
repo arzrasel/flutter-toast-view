@@ -1,4 +1,4 @@
-# Flutter ToastView Plugin
+# toast_view
 
 A new Flutter project.
 
