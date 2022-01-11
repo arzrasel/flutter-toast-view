@@ -1,15 +1,6 @@
 # Flutter ToastView Plugin
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+[![ToastView](https://img.shields.io/badge/OpenFlutter-ToastView-blue.svg)](https://github.com/OpenFlutter/flutter_oktoast)
+[![pub package](https://img.shields.io/pub/v/flutter-toast-view.svg)](https://pub.dartlang.org/packages/oktoast)
+![GitHub](https://img.shields.io/github/license/OpenFlutter/flutter-toast-view.svg)
+[![GitHub stars](https://img.shields.io/github/stars/OpenFlutter/flutter-toast-view.svg?style=social&label=Stars)](https://github.com/OpenFlutter/flutter-toast-view)
